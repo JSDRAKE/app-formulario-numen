@@ -1,7 +1,7 @@
 # TP React: App de Formulario
 
--- Esta aplicación de React combina un temporizador que cuenta los segundos transcurridos desde que se carga la página.
--- Al renderizar la página se carga la lista de usuarios que se encuentra en src/data/db.json.
+Esta aplicación de React combina un temporizador que cuenta los segundos transcurridos desde que se carga la página.
+Al renderizar la página se carga la lista de usuarios que se encuentra en src/data/db.json.
 
 ## Características
 
