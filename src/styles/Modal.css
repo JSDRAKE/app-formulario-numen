@@ -1,0 +1,48 @@
+/* Estilos para la capa de fondo del modal */
+.custom-modal-overlay {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Estilos para el contenido del modal */
+.custom-modal-content {
+  text-align: center;
+  font-size: 20px;
+  background-color: #fff; /* Fondo blanco para el modal */
+  border-radius: 10px;
+  padding: 20px;
+  width: 80%;
+  max-width: 600px; /* Tamaño máximo del modal */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  position: relative;
+}
+
+/* Estilos para el botón de cerrar */
+.custom-modal-close-button {
+  margin-top: 20px;
+  background-color: transparent;
+  color: #333;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.custom-modal-close-button:hover {
+  color: #dc3545; /* Color rojo al pasar el mouse */
+}
+
+/* styles/Modal.css */
+.ReactModal__Overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.75);
+}
+
+.ReactModal__Content {
+  max-width: 500px;
+  outline: none;
+}
