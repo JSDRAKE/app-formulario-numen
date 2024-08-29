@@ -1,18 +1,25 @@
 {
   "usuarios": [
     {
-      "nombre": "Jorge",
-      "apellido": "Suarez",
-      "email": "jsdrake@jsdrake.com.ar",
-      "rol": "Administrador",
-      "id": "249f"
+      "id": "d3f1",
+      "nombre": "Carlos",
+      "apellido": "Gómez",
+      "email": "carlos.gomez@example.com",
+      "rol": "Usuario"
     },
     {
-      "nombre": "Jorge",
-      "apellido": "Suarez",
-      "email": "lu9wt@jsdrake.com.ar",
-      "rol": "Administrador",
-      "id": "e9eb"
+      "id": "a7b5",
+      "nombre": "Ana",
+      "apellido": "Martínez",
+      "email": "ana.martinez@example.com",
+      "rol": "Administrador"
+    },
+    {
+      "id": "f8e3",
+      "nombre": "Luis",
+      "apellido": "Fernández",
+      "email": "luis.fernandez@example.com",
+      "rol": "Usuario"
     }
   ]
 }
