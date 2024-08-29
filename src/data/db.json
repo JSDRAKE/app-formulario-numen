@@ -1,0 +1,18 @@
+{
+  "usuarios": [
+    {
+      "nombre": "Jorge",
+      "apellido": "Suarez",
+      "email": "jsdrake@jsdrake.com.ar",
+      "rol": "Administrador",
+      "id": "249f"
+    },
+    {
+      "nombre": "Jorge",
+      "apellido": "Suarez",
+      "email": "lu9wt@jsdrake.com.ar",
+      "rol": "Administrador",
+      "id": "e9eb"
+    }
+  ]
+}
